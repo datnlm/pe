@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><items>
+    <item type="attack">
+        <id>I01</id>
+        <name>Weapon 1</name>
+        <description>Des item 1</description>
+        <point>10</point>
+        <status>enable</status>
+    </item>
+    <item type="attack">
+        <id>I02</id>
+        <name>Weapon 2</name>
+        <description>Des item 2</description>
+        <point>10</point>
+        <status>disable</status>
+    </item>
+    <item type="defence">
+        <id>I03</id>
+        <name>Shield 1</name>
+        <description>Des Shield 1</description>
+        <point>10</point>
+        <status>enable</status>
+    </item>
+    <item type="attack">
+        <id>I04</id>
+        <name>1</name>
+        <description>1</description>
+        <point>1</point>
+        <status>enable</status>
+    </item>
+    <item type="defence">
+        <id>I05</id>
+        <name>2</name>
+        <description>2</description>
+        <point>2</point>
+        <status>disable</status>
+    </item>
+</items>
